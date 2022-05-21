@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Martin
 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning for 
+C# Web Developer
 
 - 📫 How to reach me - email: marto379@abv.bg
 
