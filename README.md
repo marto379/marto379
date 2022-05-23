@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning for 
 C# Web Developer
 
-- 📫 How to reach me - email: marto379@abv.bg
+- 📫 How to reach me - email: marto3791@gmail.com
 
 <!---
 marto379/marto379 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
